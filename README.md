@@ -2,7 +2,7 @@
 Useful scripts, resources for OSCP
 
 Crontab-list-jobs.sh
-Description: List al the crontab jobs being executed. Makes a comparasion every 
+Description: List al the crontab jobs being executed. Makes a comparasion every second, so, you can easily spot the jobs that may require exploitation. 
 
 
 MacroGeneratorPayload.py
