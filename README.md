@@ -17,7 +17,12 @@ Need to pass the payload (generated from https://www.revshells.com/) as argument
 
 Description: Splits the reverse shell payload (generated from https://www.revshells.com/) in blocks of 50 characters long.
 
-- bash-network-scan.sh
+- network-scan-bash.sh
 
 Description: Scans a network range using bash. Usefull when you don't have nmap installed in a compromised machine
+
+- port-scan-bash.sh
+
+Description: Scans first 1000 ports for an IP Address using bash. Usefull when you don't have nmap installed in a compromised machine
+Note: You can change the port range in the for loop. 
 
